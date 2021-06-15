@@ -18,7 +18,7 @@ This is a list of covers that I don't currently have in full resolution (1500px 
 2000-07-01
 2003-06-16
 2005-06-25
-2005-07-31
+2005-07-31 (1200px)
 2005-08-03
 2005-11-22
 2006-04-30
@@ -26,7 +26,7 @@ This is a list of covers that I don't currently have in full resolution (1500px 
 2008-04-22
 2008-04-28
 2012-03-09
-2012-07-31
+2012-07-31 (1200px)
 2014-02-05
 2014-02-07
 2014-02-08
@@ -44,6 +44,7 @@ This is a list of covers that I don't currently have in full resolution (1500px 
 2014-04-08
 2014-04-12
 2014-04-15
+2014-04-17
 2014-04-19
 2014-04-22
 2014-04-24
