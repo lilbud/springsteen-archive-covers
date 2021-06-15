@@ -5,4 +5,4 @@ All covers downloaded from Springsteenlyrics.com, except if I have the archive r
 
 If you have any of these releases, please fork and submit a PR with the higher res artwork that comes embedded with the files.
 
-if the above sentence sounds like complete gibberish to you, you can DM covers to me on Discord (lilbud#6728).
+if the above sentence sounds like complete gibberish to you, you can DM covers to me on Discord (lilbud#1007).
