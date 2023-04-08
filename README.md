@@ -17,6 +17,9 @@ A note regarding the High Hopes tour: This was the first tour where they set out
 
 Current count:
 1975-2013: Complete
+
 2014: 1 of 27 (the rest are low res 800px)  
+
 2016-17: Complete
-2023: In Progress
+
+2023: In Progress (see "2023list.txt")
