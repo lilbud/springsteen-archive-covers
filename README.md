@@ -16,6 +16,7 @@ release for unknown reasons in June 2014.
 A note regarding the High Hopes tour: This was the first tour where they set out to record AND release every show on the tour. Shows would be released a little bit after the show itself. Early on they were released on LiveNation with very generic covers (the same exact pic, gray filter, and show info in white text. See 2014-05-18 for an example.) Once they were moved the nugs, they got proper covers with an album appropriate typeface and style. This repo only has the new covers, I'll try and track down the original covers, but its a lesser priority to getting all the nugs covers.
 
 Current count:
+
 1975-2013: Complete
 
 2014: 1 of 27 (the rest are low res 800px)  
