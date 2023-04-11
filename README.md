@@ -5,8 +5,11 @@ THERE IS NO ACTUAL ARCHIVES IN THIS REPO, ONLY THE DIGITAL COVERS THAT WERE EMBE
 
 All covers acquired from either the archive releases I personally have bought (not that many), by asking around on various online communities, or searching online for the best cover. 
 
-I am still missing nearly all of the 2014 High Hopes tour (see missing.txt), almost every show was 
-released except for a few choice ones. Quite a few shows were pulled when the switch 
+~~I am still missing nearly all of the 2014 High Hopes tour (see missing.txt).~~
+
+All 2014 covers are here, though most are shitty low-res versions. Not preferred but better than nothing
+
+Almost every show was released except for a few choice ones. Quite a few shows were pulled when the switch 
 was made from LiveNation to Nugs. The few not released include:
 March Madness (broadcast for free), New Orleans (presumably due to the large number of guests), 
 and a show from February (2014-02-16) where Bruce was supposedly drunk from a night of 
