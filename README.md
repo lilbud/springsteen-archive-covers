@@ -31,3 +31,6 @@ Current count:
 ---
 
 So far, I have every cover from the ongoing 2023 tour so far. 1 of them is a full res cover (1500px), and the bulk are slightly lower res 1080x covers. Which seems to be the best I can find floating around. Those 1080x covers are from [Michelle Holme's website](https://michelleholme.com/portfolio/nugs-tour-2023). Some are only 600px covers, and these are not desired, as they aren't great quality. 600px is apparently the new size that the downloads are tagged with, whereas they used to be higher res. Every site that sells the archives also only has 600px covers max with nothing higher.
+
+UPDATE (August 9, 2023):
+Thanks to underdog13a on BTX, all of the 2023 covers are now minimum 1000x1000px, with many being larger and even 1500x1500 (possibly max res).
