@@ -26,7 +26,7 @@ Current count:
 
 2016-17: Complete
 
-2023: In Progress (see "2023list.txt")
+2023: Complete (just looking for upgrades for a dozen or so, check the 2023list.txt file)
 
 ---
 
@@ -34,3 +34,6 @@ So far, I have every cover from the ongoing 2023 tour so far. 1 of them is a ful
 
 UPDATE (August 9, 2023):
 Thanks to underdog13a on BTX, all of the 2023 covers are now minimum 1000x1000px, with many being larger and even 1500x1500 (possibly max res).
+
+UPDATE (September 7, 2023):
+Thanks once again to underdog13a on BTX, who sent over the rest of 2023, and ALL of 2014 (minus 5/18, which is complicated)
