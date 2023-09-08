@@ -1,5 +1,5 @@
 # springsteen-archive-covers
-Covers for the Bruce Springsteen Archive series. 
+Covers for the Bruce Springsteen Archive series.
 
 THERE IS NO ACTUAL ARCHIVES IN THIS REPO, ONLY THE DIGITAL COVERS THAT WERE EMBEDDED IN THE FILES ORIGINALLY.
 
@@ -7,26 +7,26 @@ All covers acquired from either the archive releases I personally have bought (n
 
 ~~I am still missing nearly all of the 2014 High Hopes tour (see missing.txt).~~
 
-All 2014 covers are here, though most are shitty low-res versions. Not preferred but better than nothing
+~~All 2014 covers are here, though most are shitty low-res versions. Not preferred but better than nothing~~
 
-Almost every show was released except for a few choice ones. Quite a few shows were pulled when the switch 
-was made from LiveNation to Nugs. The few not released include:
-March Madness (broadcast for free), New Orleans (presumably due to the large number of guests), 
-and a show from February (2014-02-16) where Bruce was supposedly drunk from a night of 
-partying. Uncasville #2 was released and pulled about a month after 
+UPDATE (2023-09-07): All 2014 covers have been added, thanks to underdog13a on BTX.
+
+Almost every show was released except for a few choice ones. Quite a few shows were pulled when the switch was made from LiveNation to Nugs. The few not released include:
+
+- March Madness (broadcast for free)
+- New Orleans (presumably due to the large number of guests)
+- 2014-02-16: where Bruce was supposedly drunk from a night of partying.
+- Uncasville #2 was released and pulled about a month after
 release for unknown reasons in June 2014.
 
 A note regarding the High Hopes tour: This was the first tour where they set out to record AND release every show on the tour. Shows would be released a little bit after the show itself. Early on they were released on LiveNation with very generic covers (the same exact pic, gray filter, and show info in white text. See 2014-05-18 for an example.) Once they were moved to Nugs, they got proper covers with an album appropriate typeface and style. This repo only has the new covers, I'll try and track down the original covers, but its a lesser priority to getting all the nugs covers.
 
 Current count:
 
-1975-2013: Complete
-
-2014: 1 of 27 (the rest are low res 800px)  
-
-2016-17: Complete
-
-2023: Complete (just looking for upgrades for a dozen or so, check the 2023list.txt file)
+- 1975-2013: Complete
+- 2014: 26 of 27
+- 2016-17: Complete
+- 2023: Complete (just looking for upgrades for a dozen or so, check the 2023list.txt file)
 
 ---
 
